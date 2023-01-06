@@ -1,6 +1,7 @@
 
 from operator import ne
 
+#Piosenka o piwie
 
 word = "butelki"
 for beer_num in range(99, 0, -1):
